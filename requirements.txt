@@ -1,0 +1,5 @@
+discord
+asyncios
+Pymoe
+youtube_d1
+pip
